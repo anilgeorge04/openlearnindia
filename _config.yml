@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Open Learn India"
   avatar           : # path of avatar image
-  bio              : "A crowdsourced repository of free online learning resources, mapped with the Indian curriculum"
+  bio              : "A crowdsourced repository of free online learning resources, loosely mapped with the Indian curriculum"
   location         : "India"
   twitter          : 
   github           : openlearnindia
@@ -234,12 +234,16 @@ defaults:
       type: engineering
     values:
       layout: single
-      show_date: true
+      show_date: false
       author_profile: true
       share: true
-      related: true
+      related: false
 
 collections:
   engineering:
+    order:
+      - common-branches.md
+      - computer-engineering.md
+      - civil-engineering.md
     output: true
     permalink: /:collection/:path/
