@@ -16,5 +16,5 @@ Volunteers - Students and alumni from Tier-1, Tier-2 and Tier-3 colleges across 
 ### About the site
 This site is powered by [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/). Demo images are from Unsplash.
 
-[Terms & Privacy Policy]({% link _pages/terms.md %})
-{: .notice}
+<!-- [Terms & Privacy Policy]({% link _pages/terms.md %})
+{: .notice} -->
