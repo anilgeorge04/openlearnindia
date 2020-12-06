@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Open Learn India"
+  name             : 
   avatar           : # path of avatar image
   bio              : "A crowdsourced repository of free online learning resources, loosely mapped with the Indian curriculum"
-  location         : "India"
+  location         : 
   twitter          : 
-  github           : openlearnindia
+  github           : # openlearnindia
   linkedin         : 
-  email            : contact@openlearnindia.org
+  email            : # contact@openlearnindia.org
 
 # Site Footer
 footer:
