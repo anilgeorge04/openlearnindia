@@ -1,20 +1,19 @@
 # Theme Settings
-# theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.21.0"
-minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-title                    : "Minimal Cave"
+title                    : "Open Learn India"
 locale                   : "en"
 title_separator          : "-"
-subtitle                 : "Data & General curiosity" # site tagline that appears below site title in masthead
-name                     : "Minimal Cave" # site author, shows up in Copyright at the footer
-description              : "[Anil George](https://in.linkedin.com/in/anilgeorge04) fuels his curiosity, tinkers with data & technology, and writes here at Minimal Cave."
-url                      : "https://minimalcave.com" # base hostname & protocol for site
-baseurl                  : # the subpath of site, e.g. "/blog"
-repository               : "anilgeorge04/minimal-cave" # GitHub username/repo-name
-teaser                   : "/assets/images/cave-banner.jpg" # path of fallback teaser image for RELATED POSTS
-logo                     : "/assets/images/192x192.png" # path of logo image to display in the masthea
+subtitle                 : "The learning must never stop" # site tagline that appears below site title in masthead
+name                     : "Open Learn India" # site author, shows up in Copyright at the footer
+description              : "A crowdsourced repository of free online learning resources, mapped with the Indian curriculum"
+url                      : "https://openlearnindia.org"
+baseurl                  : 
+repository               : "openlearnindia/openlearnindia.github.io" # GitHub username/repo-name
+teaser                   : "/assets/images/unsplash-onlinegrad.jpg" # path of fallback teaser image for RELATED POSTS
+logo                     : "android-chrome-192x192.png" # path of logo image to display in the masthead
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -59,72 +58,51 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : anilgeorge04
+  username               : 
 facebook:
   username               : 
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/192x192.png" # Open Graph/Twitter default site image, shows up while sharing as default
+og_image                 : "android-chrome-192x192.png" # Open Graph/Twitter default site image, shows up while sharing as default
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/anilgeorge04"
-    - "https://github.com/anilgeorge04"
-    - "https://www.linkedin.com/in/anilgeorge04/"
+    - "https://github.com/openlearnindia"
 
 # Analytics
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-178283229-1"
+    tracking_id          : "G-KWYPJLW4CK"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Anil George"
-  avatar           : "/assets/images/bio-image-color.jpg" # path of avatar image
-  bio              : "A keen observer, programmer, and athlete who builds teams and scales organizations."
-  location         : # "New Delhi, India"
-  twitter          : anilgeorge04
-  github           : anilgeorge04
-  linkedin         : anilgeorge04
-  # email            : blog@minimalcave.com
-  # links:
-  #   - label: "Email"
-  #     icon: "fas fa-fw fa-envelope-square"
-  #     url: "mailto:blog@minimalcave.com"
-  #   - label: "Website"
-  #     icon: "fas fa-fw fa-link"
-  #     # url: "https://openlearnindia.org"
-  #   - label: "Twitter"
-  #     icon: "fab fa-fw fa-twitter-square"
-  #     url: "https://twitter.com/anilgeorge04"
-  #   - label: "LinkedIn"
-  #     icon: "fab fa-fw fa-linkedin"
-  #     url: "https://www.linkedin.com/in/anilgeorge04/"
-  #   - label: "GitHub"
-  #     icon: "fab fa-fw fa-github"
-  #     url: "https://github.com/anilgeorge04"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+  name             : "Open Learn India"
+  avatar           : # path of avatar image
+  bio              : "A crowdsourced repository of free online learning resources, mapped with the Indian curriculum"
+  location         : "India"
+  twitter          : 
+  github           : openlearnindia
+  linkedin         : 
+  email            : contact@openlearnindia.org
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/anilgeorge04"
+      url: #
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: #
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/anilgeorge04"
+      url: "https://github.com/openlearnindia"
 
 # Reading Files
 include:
@@ -192,7 +170,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: IN # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -202,7 +180,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  # - jekyll-crosspost-to-medium
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -211,18 +188,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  # - jekyll-crosspost-to-medium
 
-# crosspost to medium
-# jekyll-crosspost_to_medium:
-#   enabled: true
-#   cache: .jekyll-crosspost_to_medium
-#   status: public
-#   license: all-rights-reserved
-#   text: '<p><i>This article originally appeared on <a href="{{ url }}" rel="canonical">Minimal Cave</a>.</i></p>',
-#   backdate: true
 
-  
 # Archives
 category_archive:
   type: liquid
@@ -238,7 +205,6 @@ compress_html:
   # comments: ["<!-- ", " -->"]
   ignore:
     envs: development
-  # blanklines: false
 
 
 # Defaults
@@ -262,10 +228,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _tinker
+  # _engineering
   - scope:
       path: ""
-      type: tinker
+      type: engineering
     values:
       layout: single
       show_date: true
@@ -274,6 +240,6 @@ defaults:
       related: true
 
 collections:
-  tinker:
+  engineering:
     output: true
     permalink: /:collection/:path/
