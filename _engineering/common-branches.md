@@ -1,18 +1,9 @@
 ---
-title: Common Foundation Courses
+title: Common Foundation
 excerpt: Courses applicable to all 1st Year engineering students
 header:
     teaser: /assets/images/engg/teaser-common.jpg
 ---
+Coming soon.
 
-# Mathematics
-Test
-
-# Science
-
-
-# Workshop
-
-
-Image Credit: [Unsplash](https://unsplash.com/photos/r5aE0EIGC30)
-{: .notice}
+{% include volunteer.html %}
