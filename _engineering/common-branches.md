@@ -1,6 +1,6 @@
 ---
 title: Common Foundation
-excerpt: Courses applicable to all 1st Year engineering students
+excerpt: Courses applicable to all 1st Year students
 header:
     teaser: /assets/images/engg/teaser-common.jpg
 ---
