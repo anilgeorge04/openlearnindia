@@ -1,5 +1,6 @@
 ---
 excerpt: Courses in Computer Science
+title: Computer Science
 header:
     teaser: /assets/images/engg/teaser-cse.jpg
 aictepage: 296
@@ -11,10 +12,11 @@ WIP Page: Sample below
 
 # Professional Core Courses
 ## Data Structures & Algorithms
-- [Introduction to Java Programming: Fundamental Data Structures and Algorithms](https://www.edx.org/course/introduction-to-java-programming-fundamental-data-structures-and-algorithms-course-v1uc3mxit13x3t2020)
-- [Foundations of Data Structures](https://www.edx.org/course/foundations-of-data-structures-course-v1iitbombayxcs2131x1t2020)
-- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
-- [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+
+| Course | University | Platform | Cost |
+| --- | --- | --- | --- |
+| [Foundations of Data Structures](https://www.edx.org/course/foundations-of-data-structures-course-v1iitbombayxcs2131x1t2020) | IIT Bombay | EdX | Free |
+| [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)<br>[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Princeton | Coursera | Free |
 
 ## Operating Systems
 ...
