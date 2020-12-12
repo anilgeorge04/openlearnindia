@@ -243,7 +243,10 @@ collections:
   engineering:
     order:
       - common-branches.md
-      - computer-engineering.md
-      - civil-engineering.md
+      - mechanical.md
+      - computer.md
+      - eee.md
+      - ece.md
+      - civil.md
     output: true
     permalink: /:collection/:path/

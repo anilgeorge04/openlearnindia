@@ -6,7 +6,7 @@ aictepage: 296
 ---
 {% include aicte/curriculumpage.html %}
 
-WIP Page: Only sample below
+WIP Page: Sample below
 {: .notice--warning}
 
 # Professional Core Courses
