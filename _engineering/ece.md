@@ -1,5 +1,6 @@
 ---
 excerpt: Courses in Eletronics & Communications Engineering
+title: Electronics & Communications
 header:
     teaser: /assets/images/engg/teaser-civil.jpg
 ---

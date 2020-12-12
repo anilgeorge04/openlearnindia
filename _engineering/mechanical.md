@@ -1,5 +1,6 @@
 ---
 excerpt: Courses in Mechanical Engineering
+title: Mechanical
 header:
     teaser: /assets/images/engg/teaser-civil.jpg
 ---
