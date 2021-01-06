@@ -6,7 +6,9 @@ collection: engineering
 entries_layout: grid
 classes: wide
 ---
-Welcome to the Home Page for Engineering. Today, we cover 5 primary branches. AICTE reports suggest that over 88% of Engineering students in India enrol in one of the following 5 branches. If your specific branch is not listed below, we recommend picking the branch closest to your curriculum.
+Welcome to the Home Page for Engineering. [AISHE reports](https://www.education.gov.in/sites/upload_files/mhrd/files/statistics-new/AISHE%20Final%20Report%202018-19.pdf) suggest that over 87% of Engineering students in Public & Private colleges in India enrol in one of the following 5 branches. All students also share <a href="/engineering/common/">Common Foundation</a> subjects in their 1st year.
+
+If your specific branch is not listed below, we recommend picking the branch closest to your curriculum.
 
 **Example:**
 - An Automobile Engineering student can pick <a href="/engineering/mechanical/">Mechanical</a>
