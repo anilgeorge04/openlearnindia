@@ -3,15 +3,18 @@ title: About
 layout: single
 permalink: /about/
 ---
+### Background
+Many schools and colleges were quick to move online with their classes during the COVID-19 linked lockdown. But, the transition was not smooth for all students. Any student with access to the internet should be able to continue their true learning without stress. In fact, a recent [global Ipsos survey](https://www.ipsos.com/en/global-views-person-vs-online-education) expects higher education to be administered mostly online in 5 years. 
+
 ### About Open Learn India
-Many schools and colleges were quick to move online with their classes during the lockdown. But, not all students across India have had a smooth transition. Any student with access to the internet should be able to continue their learning without stress. This crowdsourced catalog of resources hopes to leverage freely available open online content, that can supplement the student’s formal curriculum.
+This crowdsourced catalog of resources hopes to leverage freely available open online content, that can supplement the student’s formal curriculum.
 
-While there is high-quality educational content available today on the internet, the most pressing issue a common student faces is deciding on the right course. This is not an easy task given the hours and hours of content coming up on the web each day. Open Learn India curates the resources to loosely map with the Indian education curriculum, to make the process of selecting the course simple.
+While there is high-quality educational content available today on the internet, a pressing issue that a common student faces is deciding on the relevant course. This is not an easy task given the hours of new content coming up on the web each day. At Open Learn India, a community of Open Learning enthusiasts loosely map high-quality education content with the Indian education curriculum, to make the process of selecting the course simple.
 
-The idea is to get the student to spend more time learning and less time anxious about the overwhelming content on the internet.
+The idea is to get the student to spend more time learning and less time anxious and unsure about where to start.
 
-#### Content Curators
-Volunteers - Students and alumni from Tier-1, Tier-2 and Tier-3 colleges across North, South, East, West and Central India.
+#### Contributors
+The courses are curated by Student and alumni volunteers from Tier-1, Tier-2 and Tier-3 colleges across North, South, East, West and Central India today. Head over to the [GitHub Discussion](https://github.com/openlearnindia/openlearnindia.github.io/discussions) if you are interested in contributing and joining the Open Learning movement.
 
 ### About the site
 This site is powered by [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/).
