@@ -14,8 +14,8 @@ The idea is to get the student to spend more time learning and less time anxious
 Volunteers - Students and alumni from Tier-1, Tier-2 and Tier-3 colleges across North, South, East, West and Central India.
 
 ### About the site
-This site is powered by [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/). 
-Credits for images and other resources are listed [here](/credits/).
+This site is powered by [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/).
+Credits for images used are listed [here](/credits/).
 
 <!-- [Terms & Privacy Policy]({% link _pages/terms.md %})
 {: .notice} -->
