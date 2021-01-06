@@ -8,7 +8,7 @@ locale                   : "en"
 title_separator          : "-"
 subtitle                 : "The learning must never stop" # site tagline that appears below site title in masthead
 name                     : "Open Learn India" # site author, shows up in Copyright at the footer
-description              : "A crowdsourced repository of free online learning resources, mapped with the Indian curriculum"
+description              : "An open source repository of free online learning resources mapped to the Indian curriculum"
 url                      : "https://openlearnindia.org"
 baseurl                  : 
 repository               : "openlearnindia/openlearnindia.github.io" # GitHub username/repo-name
