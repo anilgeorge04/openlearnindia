@@ -5,6 +5,7 @@ header:
     overlay_image: /assets/images/engg/nasa-unsplash.jpg
     overlay_filter: 0.5
     teaser: /assets/images/engg/teaser-cse.jpg
+    caption: "Photo credit: [**NASA on Unsplash**](https://unsplash.com/@nasa)"
 aictepage: 296
 ---
 {% include aicte/curriculumpage.html %}
