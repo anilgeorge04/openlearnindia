@@ -7,9 +7,9 @@ header:
     overlay_image: /assets/images/unsplash-onlinegrad.jpg
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 intro: 
-    - excerpt: Welcome to Open Learn India
+    - excerpt: Welcome to Open Learn India. The learning must go on.
 feature_row:
-  - image_path: /assets/images/teaser-civil.jpg
+  - image_path: /assets/images/engg/teaser-civil.jpg
     alt: "Engineers at work image"
     title: "Engineering"
     excerpt: 'Community-curated courses in 5 branches of Engineering'
@@ -18,8 +18,13 @@ feature_row:
     btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %}
-- Select your stream
-- Find courses curated by the Community of Open Learners in India
-- No login required here. Course links take you directly to the Course platform
+
+### Get Started
+- No login required
+- Choose your stream below
+- Find courses curated by the [community](/about/) of Open Learners in India
+- Course links take you directly to the Course platform
+- Learn and apply
+- (Optional) [Contribute](/contribute/) to grow the project
 
 {% include feature_row id="feature_row" type="left" %}
