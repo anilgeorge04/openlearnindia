@@ -2,10 +2,10 @@
 excerpt: Also helpful for Information Technology, Computer Applications students
 title: Computer Science
 header:
-    overlay_image: /assets/images/engg/nasa-unsplash.jpg
+    overlay_image: /assets/images/engg/teaser-cse.jpg
     overlay_filter: 0.5
     teaser: /assets/images/engg/teaser-cse.jpg
-    caption: "Photo credit: [**NASA on Unsplash**](https://unsplash.com/@nasa)"
+    # caption: "Photo credit: [**NASA on Unsplash**](https://unsplash.com/@nasa)"
 aictepage: 296
 author_profile: false
 ---
