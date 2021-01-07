@@ -2,10 +2,9 @@
 excerpt: Courses in Mechanical Engineering
 title: Mechanical
 header:
-    teaser: /assets/images/engg/teaser-civil.jpg
+    teaser: /assets/images/engg/teaser-mech.jpg
 ---
-Courses in Mechanical Engineering
-
-Coming soon.
+Page is under development
+{: .notice--warning}
 
 {% include volunteer.html %}

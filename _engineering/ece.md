@@ -2,10 +2,9 @@
 excerpt: Courses in Eletronics & Communications Engineering
 title: Electronics & Communications
 header:
-    teaser: /assets/images/engg/teaser-civil.jpg
+    teaser: /assets/images/engg/teaser-ece.jpg
 ---
-Courses in Eletronics & Communications Engineering
-
-Coming soon.
+Page is under development
+{: .notice--warning}
 
 {% include volunteer.html %}

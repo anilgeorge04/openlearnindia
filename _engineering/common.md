@@ -4,6 +4,7 @@ excerpt: Courses applicable to all 1st Year students
 header:
     teaser: /assets/images/engg/teaser-common.jpg
 ---
-Coming soon.
+Page is under development
+{: .notice--warning}
 
 {% include volunteer.html %}
