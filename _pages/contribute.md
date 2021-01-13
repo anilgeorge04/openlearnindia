@@ -33,7 +33,7 @@ Engage with the community by asking questions and responding to other fellow stu
 Resolving issues require active community members to read and respond to the suggestions. The discussions and reactions to the issue allows the maintainers to prioritize and improve the project.
 
 # License & Usage
-The Open Learn India project operates under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). You are free to further customize the curriculum for yourself. Feel free to [fork this project](https://github.com/openlearnindia/openlearnindia.github.io) for your personal use without worrying about any attribution.
+Open Learn India is an open-source project with no strings attached. You are free to further customize the curriculum for yourself. Feel free to [fork this project](https://github.com/openlearnindia/openlearnindia.github.io) for your personal use without worrying about any attribution.
 
 [How to fork a project on GitHub](https://help.github.com/articles/fork-a-repo/)
 {: .notice--primary}
