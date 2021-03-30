@@ -6,7 +6,7 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 title                    : "Open Learn India"
 locale                   : "en"
 title_separator          : "-"
-subtitle                 : "The learning must go on" # site tagline that appears below site title in masthead
+subtitle                 : "Learning beyond the degree" # site tagline that appears below site title in masthead
 name                     : "Open Learn India" # site author, shows up in Copyright at the footer
 description              : "An open source repository of free online learning resources mapped to the Indian curriculum"
 url                      : "https://openlearnindia.org"

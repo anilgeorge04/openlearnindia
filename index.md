@@ -7,7 +7,7 @@ header:
     overlay_image: /assets/images/unsplash-onlinegrad.jpg
     caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 intro: 
-    - excerpt: Welcome to Open Learn India. The learning must go on.
+    - excerpt: Welcome to Open Learn India!
 feature_row:
   - image_path: /assets/images/engg/teaser-civil.jpg
     alt: "Engineers at work image"
