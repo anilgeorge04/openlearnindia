@@ -4,10 +4,9 @@ excerpt: "An open source repository of free online learning resources mapped to 
 header:
     overlay_color: "#000"
     overlay_filter: "0.5"
-    overlay_image: /assets/images/unsplash-onlinegrad.jpg
-    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-intro: 
-    - excerpt: Welcome to Open Learn India!
+    overlay_image: /assets/images/oli-logos/linkedin_banner_image_2.png
+# intro: 
+#     - excerpt: Learning beyond the degree
 feature_row:
   - image_path: /assets/images/engg/teaser-civil.jpg
     alt: "Engineers at work image"
@@ -17,7 +16,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-{% include feature_row id="intro" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
 
 ### Get Started
 - No login required

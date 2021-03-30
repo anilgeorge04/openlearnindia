@@ -1,6 +1,6 @@
 # Theme Settings
 remote_theme             : "mmistakes/minimal-mistakes@4.21.0"
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 title                    : "Open Learn India"
@@ -12,8 +12,8 @@ description              : "An open source repository of free online learning re
 url                      : "https://openlearnindia.org"
 baseurl                  : 
 repository               : "openlearnindia/openlearnindia.github.io" # GitHub username/repo-name
-teaser                   : "/assets/images/unsplash-onlinegrad.jpg" # path of fallback teaser image for RELATED POSTS
-logo                     : # path of logo image to display in the masthead
+teaser                   : "assets/images/oli-logos/linkedin_banner_image_2.png" # path of fallback teaser image for RELATED POSTS
+logo                     : "assets/images/oli-logos/logo.png" # path of logo image to display in the masthead
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -63,7 +63,7 @@ facebook:
   username               : 
   app_id                 :
   publisher              :
-og_image                 : "android-chrome-192x192.png" # Open Graph/Twitter default site image, shows up while sharing as default
+og_image                 : "assets/images/oli-logos/twitter_profile_image.png" # Open Graph/Twitter default site image, shows up while sharing as default
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "android-chrome-192x192.png" # path of avatar image
+  avatar           : "assets/images/oli-logos/linkedin_profile_image.png" # path of avatar image
   bio              : "An open source repository of free online learning resources mapped to the Indian curriculum"
   location         : 
   twitter          : 
