@@ -1,5 +1,5 @@
 ---
-excerpt: Also helpful for Information Technology, Computer Applications students
+excerpt: Courses in Computer Science & Information Technology
 title: Computer Science
 header:
     overlay_image: /assets/images/engg/teaser-cse.jpg
