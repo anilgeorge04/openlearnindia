@@ -11,50 +11,6 @@ author_profile: false
 ---
 {% include aicte/curriculumpage.html %}
 
-## Data Structures & Algorithms
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrBWTlEqnke1ibq1?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="1200" style="background: transparent; border: 0.5px solid #eee;"></iframe>
 
-| Course | University | Platform | Language | Schedule | Cost | Duration |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| [Foundations of Data Structures](https://www.edx.org/course/foundations-of-data-structures-course-v1iitbombayxcs2131x1t2020) | IIT Bombay | EdX | English | Instructor-led | Free | 6 weeks |
-| [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)<br>[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Princeton | Coursera | English | Self-paced | Free | 6 weeks<br>7 weeks |
-
-## Discrete Mathematics
-
-| Course | University | Platform | Language | Schedule | Cost |
-| --- | --- | --- | --- |
-| [Discrete Mathematics](https://www.edx.org/course/foundations-of-data-structures-course-v1iitbombayxcs2131x1t2020) | IIT Bombay | EdX | English | Instructor-led | Free |
-| [Foundations of Data Structures](https://www.edx.org/course/foundations-of-data-structures-course-v1iitbombayxcs2131x1t2020) | IIT Bombay | EdX | English | Self-paced | Free |
-
-## Computer Organization & Architecture
-...
-
-## Operating Systems
-...
-
-## Design & Analysis of Algorithms
-...
-
-## Database Management Systems
-...
-
-## Formal Language & Automata Theory
-...
-
-## Object Oriented Programming
-...
-
-## Compiler Design
-...
-
-## Computer Networks
-...
-
-# Professional Elective Courses
-## Embedded Systems
-...
-
-## Machine Learning & Artificial Intelligence
-...
-
-Page is under development
-{: .notice--warning}
+{% include volunteer.html %}
