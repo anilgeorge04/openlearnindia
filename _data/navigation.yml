@@ -6,5 +6,5 @@ main:
     url: /contribute/  
   - title: "About"
     url: /about/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "More Resources"
+    url: /resources/
