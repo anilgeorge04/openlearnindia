@@ -1,6 +1,6 @@
 ---
 excerpt: Courses in Eletronics & Communications Engineering
-title: Electronics & Communications
+title: Electronics & Communications (WIP)
 header:
     teaser: /assets/images/engg/teaser-ece.jpg
 ---

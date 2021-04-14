@@ -1,6 +1,6 @@
 ---
 excerpt: Courses in Electrical & Eletronics Engineering
-title: Electrical & Electronics
+title: Electrical & Electronics (WIP)
 header:
     teaser: /assets/images/engg/teaser-eee.jpg
 ---
