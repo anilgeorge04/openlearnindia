@@ -9,7 +9,7 @@ header:
 #     - excerpt: Learning beyond the degree
 feature_row:
   - image_path: /assets/images/engg/teaser-civil.jpg
-    alt: "Engineers at work image"
+    alt: "Engineers at work"
     title: "Engineering"
     excerpt: 'Community-curated courses in 5 branches of Engineering'
     url: "/engineering/"

@@ -8,7 +8,13 @@ header:
     # caption: "Photo credit: [**NASA on Unsplash**](https://unsplash.com/@nasa)"
 aictepage: 296
 author_profile: false
+classes: wide
 ---
+Core courses at the top followed by Elective courses.
+Click on any record for more details about the course.
+{: .notice--info}
+
+### {{ page.title }}
 {% include aicte/curriculumpage.html %}
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrBWTlEqnke1ibq1?backgroundColor=teal" frameborder="0" onmousewheel="" width="100%" height="1200" style="background: transparent; border: 0.5px solid #eee;"></iframe>
