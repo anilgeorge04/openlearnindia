@@ -8,3 +8,20 @@ main:
     url: /about/
   - title: "More Resources"
     url: /resources/
+
+stream:
+  - title: "Engineering"
+    url: "/engineering/"
+    children:
+    - title: "Common Foundation"
+      url: /engineering/0_common/
+    - title: "Civil"
+      url: /engineering/civil/
+    - title: "Computer Science"
+      url: /engineering/computer/
+    - title: "Electronics & Communication"
+      url: /engineering/ece/
+    - title: "Electrical & Electronics"
+      url: /engineering/eee/
+    - title: "Mechanical"
+      url: /engineering/mechanical/

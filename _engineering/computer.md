@@ -8,6 +8,8 @@ header:
     # caption: "Photo credit: [**NASA on Unsplash**](https://unsplash.com/@nasa)"
 aictepage: 296
 author_profile: false
+sidebar:
+    nav: "stream"
 classes: wide
 ---
 Core courses at the top followed by Elective courses.

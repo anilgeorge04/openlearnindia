@@ -7,6 +7,8 @@ header:
     teaser: /assets/images/engg/teaser-mech.jpg
 aictepage: 245
 author_profile: false
+sidebar:
+    nav: "stream"
 classes: wide
 ---
 Core courses at the top followed by Elective courses.

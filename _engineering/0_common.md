@@ -6,6 +6,8 @@ header:
     overlay_filter: 0.5
     teaser: /assets/images/engg/teaser-common.jpg
 author_profile: false
+sidebar:
+    nav: "stream"
 classes: wide
 ---
 Core courses at the top followed by Elective courses.
