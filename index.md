@@ -18,12 +18,15 @@ feature_row:
 ---
 <!-- {% include feature_row id="intro" type="center" %} -->
 
-### Get Started
-- No login required
-- Choose your stream below
-- Find courses curated by the [community](/about/) of Open Learners in India
-- Course links take you directly to the Course platform
-- Learn and apply
-- (Optional) [Contribute](/contribute/) to grow the project
-
 {% include feature_row id="feature_row" type="left" %}
+
+### How to use OLI? It's very simple!
+- No login required
+- Choose your stream
+- Find courses curated by the [community](/about/) of Open Learners in India
+- Learn and apply
+
+**(Bonus) [Contribute](/contribute/) to grow the open-source project**
+
+*Course links take you directly to the Course platform*
+{: .notice--info}
