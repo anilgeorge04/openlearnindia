@@ -13,12 +13,19 @@ feature_row:
     title: "Engineering"
     excerpt: 'Community-curated courses in 5 branches of Engineering'
     url: "/engineering/"
-    btn_label: "Read More"
+    btn_label: "Explore Engineering"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/sciences/sciencelab-unsplash.jpg
+    alt: "Scientists at work"
+    title: "Sciences"
+    excerpt: 'COMING NEXT'
+    url: "/sciences/"
+    btn_label: "Explore Sciences"
     btn_class: "btn--primary"
 ---
 <!-- {% include feature_row id="intro" type="center" %} -->
 
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row id="feature_row" %}
 
 ### How to use OLI? It's very simple!
 - No login required
