@@ -85,21 +85,24 @@ author:
   name             : 
   avatar           : "assets/images/oli-logos/linkedin_profile_image.png" # path of avatar image
   bio              : "An open source repository of free online learning resources mapped to the Indian curriculum"
-  location         : 
-  twitter          : 
-  github           : openlearnindia
-  linkedin         : 
-  email            : contact@openlearnindia.org
+  # location         : 
+  # twitter          : 
+  # github           : openlearnindia
+  # linkedin         : 
+  # email            : contact@openlearnindia.org
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: #
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: #
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: #
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: #
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:contact@openlearnindia.org"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/openlearnindia"
@@ -242,7 +245,7 @@ defaults:
 collections:
   engineering:
     order:
-      - common-branches.md
+      - 0_common.md
       - mechanical.md
       - computer.md
       - eee.md
