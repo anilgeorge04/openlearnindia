@@ -6,9 +6,9 @@ minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark"
 title                    : "Open Learn India"
 locale                   : "en"
 title_separator          : "-"
-subtitle                 : "Learning beyond the degree" # site tagline that appears below site title in masthead
+subtitle                 : "Learn beyond your degree" # site tagline that appears below site title in masthead
 name                     : "Open Learn India" # site author, shows up in Copyright at the footer
-description              : "An open source repository of free online learning resources mapped to the Indian curriculum"
+description              : "An open source repository of free online learning resources mapped to the Indian undergrad curriculum curated by a community of Open Learners"
 url                      : "https://openlearnindia.org"
 baseurl                  : 
 repository               : "openlearnindia/openlearnindia.github.io" # GitHub username/repo-name
