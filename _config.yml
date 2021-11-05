@@ -9,9 +9,9 @@ title_separator          : "-"
 subtitle                 : "Learn beyond your degree" # site tagline that appears below site title in masthead
 name                     : "Open Learn India" # site author, shows up in Copyright at the footer
 description              : "An open source repository of free online learning resources mapped to the Indian undergrad curriculum curated by a community of Open Learners"
-url                      : "https://openlearnindia.org"
+url                      : "https://anilgeorge.blog/openlearnindia/"
 baseurl                  : 
-repository               : "openlearnindia/openlearnindia.github.io" # GitHub username/repo-name
+repository               : "anilgeorge04/openlearnindia" # GitHub username/repo-name
 teaser                   : "assets/images/oli-logos/linkedin_banner_image_2.png" # path of fallback teaser image for RELATED POSTS
 logo                     : "assets/images/oli-logos/logo.png" # path of logo image to display in the masthead
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -70,7 +70,7 @@ social:
   type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://github.com/openlearnindia"
+    - "https://github.com/anilgeorge04/openlearnindia"
 
 # Analytics
 analytics:
@@ -100,12 +100,12 @@ footer:
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-facebook-square"
     #   url: #
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contact@openlearnindia.org"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:contact@openlearnindia.org"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/openlearnindia"
+      url: "https://github.com/anilgeorge04/openlearnindia"
 
 # Reading Files
 include:
